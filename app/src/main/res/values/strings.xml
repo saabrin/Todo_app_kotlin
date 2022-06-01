@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Todo</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todo">TODO</string>
+    <string name="plan_your_day">Plan your day</string>
+    <string name="update_and_save">update and save</string>
+    <string name="write_task_here">Write task here</string>
+    <string name="title">Title</string>
+</resources>
